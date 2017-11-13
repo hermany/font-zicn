@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-o-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-o-down" fill="#050505">
+            <path d="M88.1104159,58.8686922 L41.6104159,112.868692 C40.2149509,114.489232 41.3662701,117 43.5048379,117 L136.504838,117 C138.643406,117 139.794725,114.489232 138.39926,112.868692 L91.8992599,58.8686922 C90.9018726,57.7104359 89.1078032,57.7104359 88.1104159,58.8686922 Z" id="Triangle" transform="translate(90.004838, 87.500000) scale(1, -1) translate(-90.004838, -87.500000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>play-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play-circle" fill-rule="nonzero">
+            <path d="M179,90 C179,40.8466573 139.153343,1 90,1 C40.8466573,1 1,40.8466573 1,90 C1,139.153343 40.8466573,179 90,179 C139.153343,179 179,139.153343 179,90 Z M9,90 C9,45.2649353 45.2649353,9 90,9 C134.735065,9 171,45.2649353 171,90 C171,134.735065 134.735065,171 90,171 C45.2649353,171 9,134.735065 9,90 Z" id="Oval-8" fill="#151515" transform="translate(90.000000, 90.000000) rotate(90.000000) translate(-90.000000, -90.000000) "></path>
+            <path d="M72.0180399,117 L133.652846,117 L102.835443,67.0680051 L72.0180399,117 Z M106.664821,56.136556 L145.547633,119.136556 C147.397988,122.1346 145.241334,126 141.718256,126 L63.9526305,126 C60.4295523,126 58.2728978,122.1346 60.123253,119.136556 L99.0060655,56.136556 C100.764273,53.2878147 104.906613,53.2878147 106.664821,56.136556 Z" id="Triangle-2" fill="#000000" transform="translate(102.835443, 90.000000) rotate(90.000000) translate(-102.835443, -90.000000) "></path>
+        </g>
+    </g>
+</svg>

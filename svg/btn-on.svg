@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="btn-on" fill-rule="nonzero" fill="#000000">
+            <path d="M8,91.5 C8,110.557021 23.4445447,126 42.5007431,126 L137.499257,126 C156.553044,126 172,110.553506 172,91.5 C172,72.4429792 156.555455,57 137.499257,57 L42.5007431,57 C23.446956,57 8,72.4464939 8,91.5 Z M0,91.5 C0,68.0278981 19.0289958,49 42.5007431,49 L137.499257,49 C160.971769,49 180,68.0227373 180,91.5 C180,114.972102 160.971004,134 137.499257,134 L42.5007431,134 C19.0282308,134 0,114.977263 0,91.5 Z M134.5,119 C150.240115,119 163,106.687831 163,91.5 C163,76.3121694 150.240115,64 134.5,64 C118.759885,64 106,76.3121694 106,91.5 C106,106.687831 118.759885,119 134.5,119 Z" id="Rectangle-21"></path>
+        </g>
+    </g>
+</svg>

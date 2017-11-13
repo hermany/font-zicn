@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>reorder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reorder" fill="#000000">
+            <path d="M177,40 C179.209139,40 181,37.5375661 181,34.5 C181,31.4624339 179.209139,29 177,29 L4,29 C1.790861,29 0,31.4624339 0,34.5 C0,37.5375661 1.790861,40 4,40 L177,40 Z M177,98 C179.209139,98 181,95.5375661 181,92.5 C181,89.4624339 179.209139,87 177,87 L4,87 C1.790861,87 0,89.4624339 0,92.5 C0,95.5375661 1.790861,98 4,98 L177,98 Z M177,156 C179.209139,156 181,153.537566 181,150.5 C181,147.462434 179.209139,145 177,145 L4,145 C1.790861,145 0,147.462434 0,150.5 C0,153.537566 1.790861,156 4,156 L177,156 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

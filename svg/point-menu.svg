@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>point-menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="point-menu" fill="#070707">
+            <path d="M91,44 C98.1797017,44 104,38.1797017 104,31 C104,23.8202983 98.1797017,18 91,18 C83.8202983,18 78,23.8202983 78,31 C78,38.1797017 83.8202983,44 91,44 Z M91,102 C98.1797017,102 104,96.1797017 104,89 C104,81.8202983 98.1797017,76 91,76 C83.8202983,76 78,81.8202983 78,89 C78,96.1797017 83.8202983,102 91,102 Z M91,160 C98.1797017,160 104,154.179702 104,147 C104,139.820298 98.1797017,134 91,134 C83.8202983,134 78,139.820298 78,147 C78,154.179702 83.8202983,160 91,160 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

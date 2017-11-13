@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clock">
+            <path d="M179,90 C179,40.8466573 139.153343,1 90,1 C40.8466573,1 1,40.8466573 1,90 C1,139.153343 40.8466573,179 90,179 C139.153343,179 179,139.153343 179,90 Z M11.5,90 C11.5,46.6456471 46.6456471,11.5 90,11.5 C133.354353,11.5 168.5,46.6456471 168.5,90 C168.5,133.354353 133.354353,168.5 90,168.5 C46.6456471,168.5 11.5,133.354353 11.5,90 Z" id="Oval-8" fill="#151515" transform="translate(90.000000, 90.000000) rotate(270.000000) translate(-90.000000, -90.000000) "></path>
+            <path d="M91,96.5 L96,91.5 L36,91.5 C33.2385763,91.5 31,93.7385763 31,96.5 C31,99.2614237 33.2385763,101.5 36,101.5 L96,101.5 C98.7614237,101.5 101,99.2614237 101,96.5 L101,35 C101,32.2385763 98.7614237,30 96,30 C93.2385763,30 91,32.2385763 91,35 L91,96.5 Z" id="Path-13" fill="#060606"></path>
+        </g>
+    </g>
+</svg>

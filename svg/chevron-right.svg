@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<path d="M10.3,28.3c-0.2,0-0.3-0.1-0.5-0.2c-0.3-0.3-0.3-0.7,0-0.9l11.3-11.3L9.9,4.5c-0.3-0.3-0.3-0.7,0-0.9s0.7-0.3,0.9,0
-	l11.8,11.8c0.3,0.3,0.3,0.7,0,0.9L10.8,28.1C10.7,28.2,10.5,28.3,10.3,28.3L10.3,28.3z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-right" fill-rule="nonzero" fill="#000000">
+            <path d="M146.370302,129.503766 C150.27335,133.406419 156.601121,133.406099 160.503774,129.503051 C164.406427,125.600003 164.406107,119.272232 160.503059,115.369579 L96.1935213,51.0665476 C92.246281,47.1197066 85.8312341,47.1713073 81.9479948,51.1811343 L19.674969,115.484166 C15.8352055,119.4491 15.9366762,125.776057 19.9016101,129.615821 C23.866544,133.455584 30.1935014,133.354113 34.0332649,129.389179 L89.2417441,72.3809881 L146.370302,129.503766 Z" id="Path-23" transform="translate(90.145395, 90.285160) scale(-1, -1) rotate(-90.000000) translate(-90.145395, -90.285160) "></path>
+        </g>
+    </g>
 </svg>

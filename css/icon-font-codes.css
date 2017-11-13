@@ -16,7 +16,6 @@
 .icn-block-page:before { content: '\e80e'; } /* '' */
 .icn-box-o:before { content: '\e80f'; } /* '' */
 .icn-box:before { content: '\e810'; } /* '' */
-.icn-boxs:before { content: '\e811'; } /* '' */
 .icn-btn-off:before { content: '\e812'; } /* '' */
 .icn-btn-on:before { content: '\e813'; } /* '' */
 .icn-bubble:before { content: '\e814'; } /* '' */
@@ -34,10 +33,6 @@
 .icn-cc:before { content: '\e820'; } /* '' */
 .icn-checked:before { content: '\e821'; } /* '' */
 .icn-checkmark-circle:before { content: '\e822'; } /* '' */
-.icn-chevron-donw:before { content: '\e823'; } /* '' */
-.icn-chevron-left:before { content: '\e824'; } /* '' */
-.icn-chevron-right:before { content: '\e825'; } /* '' */
-.icn-chevron-up:before { content: '\e826'; } /* '' */
 .icn-clients:before { content: '\e827'; } /* '' */
 .icn-clock:before { content: '\e828'; } /* '' */
 .icn-close:before { content: '\e829'; } /* '' */
@@ -61,7 +56,6 @@
 .icn-discharge:before { content: '\e83b'; } /* '' */
 .icn-division:before { content: '\e83c'; } /* '' */
 .icn-donwload:before { content: '\e83d'; } /* '' */
-.icn-email:before { content: '\e83e'; } /* '' */
 .icn-excel:before { content: '\e83f'; } /* '' */
 .icn-expand:before { content: '\e840'; } /* '' */
 .icn-eye-close:before { content: '\e841'; } /* '' */
@@ -114,11 +108,9 @@
 .icn-powerpoint:before { content: '\e871'; } /* '' */
 .icn-project-plan:before { content: '\e872'; } /* '' */
 .icn-proyect:before { content: '\e873'; } /* '' */
-.icn-reorder:before { content: '\e874'; } /* '' */
 .icn-rocket:before { content: '\e875'; } /* '' */
 .icn-rrhh:before { content: '\e876'; } /* '' */
 .icn-save:before { content: '\e877'; } /* '' */
-.icn-search:before { content: '\e878'; } /* '' */
 .icn-settings:before { content: '\e879'; } /* '' */
 .icn-shop:before { content: '\e87a'; } /* '' */
 .icn-shortcut:before { content: '\e87b'; } /* '' */
@@ -145,5 +137,12 @@
 .icn-warning:before { content: '\e890'; } /* '' */
 .icn-word:before { content: '\e891'; } /* '' */
 .icn-zone:before { content: '\e892'; } /* '' */
-.icn-zoom:before { content: '\e893'; } /* '' */
 .icn-lock:before { content: '\e894'; } /* '' */
+.icn-email:before { content: '\e895'; } /* '' */
+.icn-reorder:before { content: '\e896'; } /* '' */
+.icn-search:before { content: '\e897'; } /* '' */
+.icn-chevron-donw:before { content: '\e898'; } /* '' */
+.icn-chevron-left:before { content: '\e899'; } /* '' */
+.icn-chevron-right:before { content: '\e89a'; } /* '' */
+.icn-chevron-up:before { content: '\e89b'; } /* '' */
+.icn-boxs:before { content: '\e89c'; } /* '' */

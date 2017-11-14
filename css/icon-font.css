@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icon-font';
-  src: url('../font/icon-font.eot?67332479');
-  src: url('../font/icon-font.eot?67332479#iefix') format('embedded-opentype'),
-       url('../font/icon-font.woff2?67332479') format('woff2'),
-       url('../font/icon-font.woff?67332479') format('woff'),
-       url('../font/icon-font.ttf?67332479') format('truetype'),
-       url('../font/icon-font.svg?67332479#icon-font') format('svg');
+  src: url('../font/icon-font.eot?70713728');
+  src: url('../font/icon-font.eot?70713728#iefix') format('embedded-opentype'),
+       url('../font/icon-font.woff2?70713728') format('woff2'),
+       url('../font/icon-font.woff?70713728') format('woff'),
+       url('../font/icon-font.ttf?70713728') format('truetype'),
+       url('../font/icon-font.svg?70713728#icon-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'icon-font';
-    src: url('../font/icon-font.svg?67332479#icon-font') format('svg');
+    src: url('../font/icon-font.svg?70713728#icon-font') format('svg');
   }
 }
 */
@@ -102,7 +102,6 @@
 .icn-content:before { content: '\e831'; } /* '' */
 .icn-cover:before { content: '\e832'; } /* '' */
 .icn-credential-o:before { content: '\e833'; } /* '' */
-.icn-credential:before { content: '\e834'; } /* '' */
 .icn-crm:before { content: '\e835'; } /* '' */
 .icn-crop:before { content: '\e836'; } /* '' */
 .icn-danger:before { content: '\e837'; } /* '' */
@@ -142,7 +141,6 @@
 .icn-movil:before { content: '\e85b'; } /* '' */
 .icn-music-note:before { content: '\e85c'; } /* '' */
 .icn-newspaper:before { content: '\e85d'; } /* '' */
-.icn-off:before { content: '\e85e'; } /* '' */
 .icn-order-ok:before { content: '\e85f'; } /* '' */
 .icn-order:before { content: '\e860'; } /* '' */
 .icn-page:before { content: '\e861'; } /* '' */
@@ -202,3 +200,5 @@
 .icn-chevron-right:before { content: '\e89a'; } /* '' */
 .icn-chevron-up:before { content: '\e89b'; } /* '' */
 .icn-boxs:before { content: '\e89c'; } /* '' */
+.icn-off:before { content: '\e89d'; } /* '' */
+.icn-credential:before { content: '\e89e'; } /* '' */

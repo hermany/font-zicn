@@ -46,7 +46,6 @@
 .icn-content:before { content: '\e831'; } /* '' */
 .icn-cover:before { content: '\e832'; } /* '' */
 .icn-credential-o:before { content: '\e833'; } /* '' */
-.icn-credential:before { content: '\e834'; } /* '' */
 .icn-crm:before { content: '\e835'; } /* '' */
 .icn-crop:before { content: '\e836'; } /* '' */
 .icn-danger:before { content: '\e837'; } /* '' */
@@ -86,7 +85,6 @@
 .icn-movil:before { content: '\e85b'; } /* '' */
 .icn-music-note:before { content: '\e85c'; } /* '' */
 .icn-newspaper:before { content: '\e85d'; } /* '' */
-.icn-off:before { content: '\e85e'; } /* '' */
 .icn-order-ok:before { content: '\e85f'; } /* '' */
 .icn-order:before { content: '\e860'; } /* '' */
 .icn-page:before { content: '\e861'; } /* '' */
@@ -146,3 +144,5 @@
 .icn-chevron-right:before { content: '\e89a'; } /* '' */
 .icn-chevron-up:before { content: '\e89b'; } /* '' */
 .icn-boxs:before { content: '\e89c'; } /* '' */
+.icn-off:before { content: '\e89d'; } /* '' */
+.icn-credential:before { content: '\e89e'; } /* '' */

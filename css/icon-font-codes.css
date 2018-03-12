@@ -45,11 +45,13 @@
 .icn-columnist:before { content: '\e82b'; } /* '' */
 .icn-bubble:before { content: '\e82c'; } /* '' */
 .icn-conector:before { content: '\e82d'; } /* '' */
+.icn-tag:before { content: '\e82e'; } /* '' */
 .icn-contact:before { content: '\e82f'; } /* '' */
 .icn-content-block:before { content: '\e830'; } /* '' */
 .icn-content:before { content: '\e831'; } /* '' */
 .icn-cover:before { content: '\e832'; } /* '' */
 .icn-credential-o:before { content: '\e833'; } /* '' */
+.icn-classification:before { content: '\e834'; } /* '' */
 .icn-crop:before { content: '\e836'; } /* '' */
 .icn-danger:before { content: '\e837'; } /* '' */
 .icn-deposit:before { content: '\e838'; } /* '' */

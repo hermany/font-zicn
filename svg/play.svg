@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play" fill-rule="nonzero">
+            <path d="M64,128 C28.653776,128 0,99.346224 0,64 C0,28.653776 28.653776,0 64,0 C99.346224,0 128,28.653776 128,64 C128,99.346224 99.346224,128 64,128 Z M64,118 C93.8233765,118 118,93.8233765 118,64 C118,34.1766235 93.8233765,10 64,10 C34.1766235,10 10,34.1766235 10,64 C10,93.8233765 34.1766235,118 64,118 Z" id="Oval-23" fill="#000000"></path>
+            <path d="M69.2579293,43.5320325 L38.770379,82.3804672 C37.8554476,83.5463087 38.6103057,85.3525939 40.0124497,85.3525939 L100.98755,85.3525939 C102.389694,85.3525939 103.144552,83.5463087 102.229621,82.3804672 L71.7420707,43.5320325 C71.0881374,42.698765 69.9118626,42.698765 69.2579293,43.5320325 Z" id="Triangle" fill="#060606" transform="translate(70.500000, 64.129838) rotate(90.000000) translate(-70.500000, -64.129838) "></path>
+        </g>
+    </g>
+</svg>
